@@ -6,4 +6,4 @@ During my internship, I successfully completed the following two tasks:
 https://jsadikot.github.io/Portfolio-Website/
 
 # Task 2: Netflix Homepage
-
+https://jsadikot.github.io/Netflix-Homepage/
