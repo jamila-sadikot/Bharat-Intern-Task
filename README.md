@@ -3,7 +3,7 @@ This repository is to share my workings as a Web Developer Intern in the Virtual
 
 During my internship, I successfully completed the following two tasks:
 # Task 1: Portfolio Website
-file:///C:/Users/SADIKOT/Documents/GitHub/Bharat-Intern-Task/Task1/index.html
+https://jsadikot.github.io/Portfolio-Website/
 
 # Task 2: Netflix Homepage
 
